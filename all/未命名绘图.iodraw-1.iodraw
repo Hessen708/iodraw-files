@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XRcR5hknj3jlCyolcnHL-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="614.5" width="740" height="315.5" as="geometry" />
+          <mxGeometry x="-105" y="940" width="825" height="320" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-2" value="比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="159" y="639" width="252" height="66" as="geometry" />
