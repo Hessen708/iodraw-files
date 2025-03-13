@@ -57,8 +57,9 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-87" value="比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-130" y="630" width="860" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-88" target="XRcR5hknj3jlCyolcnHL-32">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-88">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-4" y="1430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="1428" />
               <mxPoint x="82" y="1428" />
