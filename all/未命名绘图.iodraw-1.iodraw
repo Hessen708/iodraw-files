@@ -10,9 +10,6 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-3" value="通用信道下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2642" y="119" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-4" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4375" y="119" width="252" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-15" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2071" y="235" width="172" height="49" as="geometry" />
         </mxCell>
@@ -31,66 +28,6 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-21" value="统一优化框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2563" y="342" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-22" value="协调量子资源满足保真度和吞吐量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2769" y="334" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-23" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3285" y="235" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-24" value="离散化保真度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3071" y="342" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-25" value="转化为整数线性规划问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3277" y="342" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-26" value="开发随机算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3563" y="342" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-27" value="实现ε-最优性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3564" y="459" width="153" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-28" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3960" y="235" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-29" value="建立通用信道下的纠缠纯化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3769" y="334" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-30" value="提出近似最优的纯化调度算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4071" y="334" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-31" value="最大化单跳链路的纠缠传输速率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3919" y="450" width="253" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-32" value="理论证明近似最优性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4493" y="459" width="205" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-33" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4391" y="235" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-34" value="建立Purify-and-Swap策略的最优性条件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4373" y="334" width="257" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-35" value="保真度约束的路径优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5041" y="235" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-36" value="建立节点资源状态模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4680" y="342" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-37" value="构建多层辅助图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4950" y="342" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-38" value="设计路径优化算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5172" y="342" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-39" value="满足保真度和吞吐量要求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4748" y="459" width="237" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-40" value="实现ε-最优路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5307" y="459" width="170" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-41" value="提出基于随机优化的资源分配框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5410" y="334" width="253" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.55;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -104,11 +41,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-1" target="S-qoTGMYvTzo0nq-7Sw4-4">
+        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4501" y="94" />
             </Array>
+            <mxPoint x="4500.999999999999" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-3" target="S-qoTGMYvTzo0nq-7Sw4-15">
@@ -143,147 +81,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-3" target="S-qoTGMYvTzo0nq-7Sw4-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-20" target="S-qoTGMYvTzo0nq-7Sw4-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2641" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-20" target="S-qoTGMYvTzo0nq-7Sw4-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2895" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-3" target="S-qoTGMYvTzo0nq-7Sw4-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3395" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-23" target="S-qoTGMYvTzo0nq-7Sw4-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3149" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-23" target="S-qoTGMYvTzo0nq-7Sw4-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-23" target="S-qoTGMYvTzo0nq-7Sw4-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3641" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-26" target="S-qoTGMYvTzo0nq-7Sw4-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-4" target="S-qoTGMYvTzo0nq-7Sw4-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4046" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-28" target="S-qoTGMYvTzo0nq-7Sw4-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3895" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-28" target="S-qoTGMYvTzo0nq-7Sw4-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4197" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-30" target="S-qoTGMYvTzo0nq-7Sw4-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4045" y="425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.77;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-30" target="S-qoTGMYvTzo0nq-7Sw4-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4596" y="425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-4" target="S-qoTGMYvTzo0nq-7Sw4-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-33" target="S-qoTGMYvTzo0nq-7Sw4-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-4" target="S-qoTGMYvTzo0nq-7Sw4-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5151" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-35" target="S-qoTGMYvTzo0nq-7Sw4-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4790" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-35" target="S-qoTGMYvTzo0nq-7Sw4-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5036" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-35" target="S-qoTGMYvTzo0nq-7Sw4-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5266" y="309" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-38" target="S-qoTGMYvTzo0nq-7Sw4-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="4866" y="425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-38" target="S-qoTGMYvTzo0nq-7Sw4-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5392" y="425" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-35" target="S-qoTGMYvTzo0nq-7Sw4-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5536" y="309" />
             </Array>
           </mxGeometry>
         </mxCell>
