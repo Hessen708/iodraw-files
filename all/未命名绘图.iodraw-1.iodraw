@@ -16,9 +16,6 @@
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-3" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="330" y="119" width="236" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-4" value="单跳场景下的最优纠缠纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="217" width="252" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-5" value="建立比特翻转信道下的纠缠纯化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="334" width="252" height="66" as="geometry" />
         </mxCell>
@@ -66,14 +63,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-2" target="VkVQBhWfRKs1KTn9Jjtd-4">
+        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-4" target="VkVQBhWfRKs1KTn9Jjtd-5">
+        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="VkVQBhWfRKs1KTn9Jjtd-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146" y="283" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-5" target="VkVQBhWfRKs1KTn9Jjtd-6">
