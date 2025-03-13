@@ -75,7 +75,7 @@
           <mxGeometry x="607" y="1542" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-95" value="保真度约束的路径优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1400" width="216" height="50" as="geometry" />
+          <mxGeometry x="476" y="1466" width="216" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
