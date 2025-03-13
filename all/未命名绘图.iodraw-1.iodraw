@@ -36,7 +36,7 @@
           <mxGeometry x="-90" y="755" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-13" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="755" width="236" height="49" as="geometry" />
+          <mxGeometry x="360" y="755" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-14" value="扩展到多跳网络环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="338" y="862" width="204" height="49" as="geometry" />
