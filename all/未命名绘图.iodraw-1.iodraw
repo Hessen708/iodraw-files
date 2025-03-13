@@ -21,14 +21,9 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-168" value="效率&lt;div&gt;保障&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S-qoTGMYvTzo0nq-7Sw4-163">
+        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-168" value="最优性&lt;div&gt;保证&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S-qoTGMYvTzo0nq-7Sw4-163">
           <mxGeometry x="0.0815" y="-5" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-170" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S-qoTGMYvTzo0nq-7Sw4-163">
-          <mxGeometry x="0.1956" y="-8" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-86" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
