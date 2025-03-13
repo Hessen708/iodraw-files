@@ -13,7 +13,7 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-85" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="1470" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-86" target="S-qoTGMYvTzo0nq-7Sw4-91">
+        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-86" target="S-qoTGMYvTzo0nq-7Sw4-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-164" value="啊、" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S-qoTGMYvTzo0nq-7Sw4-163">
