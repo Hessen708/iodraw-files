@@ -11,10 +11,10 @@
           <mxGeometry x="-138.75" y="1330" width="877.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-138.75" y="940" width="877.5" height="310" as="geometry" />
+          <mxGeometry x="-138.75" y="970" width="877.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="通用信道下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="950" width="860" height="60" as="geometry" />
+          <mxGeometry x="-130" y="980" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-8" target="XRcR5hknj3jlCyolcnHL-13">
           <mxGeometry relative="1" as="geometry" />
@@ -34,13 +34,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="1096" width="172" height="49" as="geometry" />
+          <mxGeometry x="-90" y="1126" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1096" width="220" height="49" as="geometry" />
+          <mxGeometry x="180" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-27" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1096" width="220" height="49" as="geometry" />
+          <mxGeometry x="474" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-32" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1476" width="172" height="49" as="geometry" />
