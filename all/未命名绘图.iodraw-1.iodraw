@@ -7,7 +7,7 @@
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-1" value="问题定义及方案设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="20" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-2" target="VkVQBhWfRKs1KTn9Jjtd-3">
+        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-30" value="z最优性&lt;div&gt;保障&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-2" target="VkVQBhWfRKs1KTn9Jjtd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-2" value="链路级纠缠纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
