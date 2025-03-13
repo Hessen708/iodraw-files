@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-86" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="755" width="172" height="49" as="geometry" />
+          <mxGeometry x="60" y="755" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-87" value="建立比特翻转信道下的纠缠纯化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="854" width="252" height="66" as="geometry" />
