@@ -32,7 +32,7 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-87" value="建立比特翻转信道下的纠缠纯化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="854" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-88" value="理论分析比特翻转信道与退极化信道的结构性差异" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-88" value="理论分析比特翻转信道&#xa;与退极化信道的结构性差异" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="970" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-89" value="提出最优纠缠纯化调度算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
