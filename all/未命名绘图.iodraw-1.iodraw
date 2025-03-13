@@ -11,7 +11,7 @@
           <mxGeometry x="163" y="980" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-4" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1360" width="252" height="66" as="geometry" />
+          <mxGeometry x="159" y="1320" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-8" target="XRcR5hknj3jlCyolcnHL-13">
           <mxGeometry relative="1" as="geometry" />
@@ -48,13 +48,13 @@
           <mxGeometry x="474" y="1096" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-32" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="231" y="1476" width="172" height="49" as="geometry" />
+          <mxGeometry x="-105" y="1436" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-37" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="511" y="1476" width="220" height="49" as="geometry" />
+          <mxGeometry x="175" y="1436" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-39" value="保真度约束的路径优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="943" y="1476" width="220" height="49" as="geometry" />
+          <mxGeometry x="607" y="1436" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-2" target="XRcR5hknj3jlCyolcnHL-8">
           <mxGeometry relative="1" as="geometry">
@@ -100,14 +100,8 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-4" target="XRcR5hknj3jlCyolcnHL-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="317" y="1451" />
+              <mxPoint x="-19" y="1411" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-32">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="317" y="1575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-4" target="XRcR5hknj3jlCyolcnHL-37">
@@ -115,33 +109,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="621.5" y="1575" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-4" target="XRcR5hknj3jlCyolcnHL-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1053" y="1451" />
+              <mxPoint x="717" y="1411" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="910" y="1550" />
-            </Array>
-            <mxPoint x="910" y="1583" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1196" y="1550" />
-            </Array>
-            <mxPoint x="1196.5" y="1575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
