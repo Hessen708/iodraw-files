@@ -10,6 +10,11 @@
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-30" value="最优性&lt;div&gt;保障&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-2" target="VkVQBhWfRKs1KTn9Jjtd-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="146" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-2" value="链路级纠缠纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="119" width="204" height="49" as="geometry" />
         </mxCell>
@@ -61,18 +66,6 @@
             <Array as="points">
               <mxPoint x="448" y="94" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="146" y="217" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VkVQBhWfRKs1KTn9Jjtd-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="VkVQBhWfRKs1KTn9Jjtd-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="146" y="283" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VkVQBhWfRKs1KTn9Jjtd-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VkVQBhWfRKs1KTn9Jjtd-5" target="VkVQBhWfRKs1KTn9Jjtd-6">
