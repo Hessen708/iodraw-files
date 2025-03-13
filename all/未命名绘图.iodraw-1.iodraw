@@ -29,41 +29,17 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-8" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillStyle=auto;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="755" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-12" value="最大化单跳链路的纠缠传输速率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1202" width="253" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-13" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="322" y="755" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-14" value="扩展到多跳网络环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="338" y="862" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-15" value="引入瓶颈链路识别机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="979" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-16" value="最大化瓶颈链路的吞吐量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="1095" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-17" value="理论分析与实验验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338" y="1211" width="205" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-18" value="效率&lt;div&gt;保障&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-19" target="XRcR5hknj3jlCyolcnHL-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="710" y="755" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-20" value="建立通用信道下的纯化调度模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="854" width="252" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-21" value="转化为离散线性规划问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="678" y="979" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-22" value="提出纯化调度算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="702" y="1095" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-23" value="消耗最少的链路级纠缠资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1211" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="755" width="220" height="49" as="geometry" />
@@ -164,24 +140,31 @@
             <mxPoint x="964" y="696.4200000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-19" target="XRcR5hknj3jlCyolcnHL-20">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="796" y="854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-20" target="XRcR5hknj3jlCyolcnHL-21">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="796" y="920" as="sourcePoint" />
+            <mxPoint x="796" y="979" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-21" target="XRcR5hknj3jlCyolcnHL-22">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="796" y="1028" as="sourcePoint" />
+            <mxPoint x="796" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-22" target="XRcR5hknj3jlCyolcnHL-23">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="796" y="1144" as="sourcePoint" />
+            <mxPoint x="796" y="1211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-24">
