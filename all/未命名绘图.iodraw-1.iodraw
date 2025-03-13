@@ -8,7 +8,7 @@
           <mxGeometry x="-138.75" y="620" width="877.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-138.75" y="1320" width="877.5" height="310" as="geometry" />
+          <mxGeometry x="-147.5" y="1320" width="877.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-138.75" y="970" width="877.5" height="310" as="geometry" />
@@ -71,8 +71,11 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-93" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="474" y="1466" width="66" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="607" y="1466" width="87" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-95" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-137.5" y="1330" width="877.5" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
