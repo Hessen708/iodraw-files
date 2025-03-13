@@ -56,7 +56,7 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-95" value="理论分析与实验验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="338" y="1211" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-96" target="S-qoTGMYvTzo0nq-7Sw4-101">
+        <mxCell id="S-qoTGMYvTzo0nq-7Sw4-166" value="效率&lt;div&gt;保障&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-96" target="S-qoTGMYvTzo0nq-7Sw4-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-96" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
