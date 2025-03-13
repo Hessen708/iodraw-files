@@ -14,7 +14,7 @@
           <mxGeometry x="887" y="639" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-85" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1779" y="639" width="252" height="66" as="geometry" />
+          <mxGeometry x="578" y="1520" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-86" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="60" y="755" width="172" height="49" as="geometry" />
@@ -86,46 +86,46 @@
           <mxGeometry x="1230" y="1211" width="153" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-109" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1515" y="755" width="172" height="49" as="geometry" />
+          <mxGeometry x="314" y="1636" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-110" value="建立通用信道下的纠缠纯化模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="854" width="252" height="66" as="geometry" />
+          <mxGeometry x="274" y="1735" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-111" value="提出近似最优的纯化调度算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1475" y="970" width="252" height="66" as="geometry" />
+          <mxGeometry x="274" y="1851" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-112" value="最大化单跳链路的纠缠传输速率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1474" y="1086" width="253" height="66" as="geometry" />
+          <mxGeometry x="273" y="1967" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-113" value="理论证明近似最优性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1498" y="1211" width="205" height="49" as="geometry" />
+          <mxGeometry x="297" y="2092" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-114" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1795" y="755" width="220" height="49" as="geometry" />
+          <mxGeometry x="594" y="1636" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-115" value="建立Purify-and-Swap策略的最优性条件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1777" y="854" width="257" height="66" as="geometry" />
+          <mxGeometry x="576" y="1735" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-116" value="保真度约束的路径优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2227" y="755" width="220" height="49" as="geometry" />
+          <mxGeometry x="1026" y="1636" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-117" value="建立节点资源状态模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2084" y="862" width="220" height="49" as="geometry" />
+          <mxGeometry x="883" y="1743" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-118" value="构建多层辅助图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2108" y="979" width="172" height="49" as="geometry" />
+          <mxGeometry x="907" y="1860" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-119" value="设计路径优化算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="1095" width="188" height="49" as="geometry" />
+          <mxGeometry x="899" y="1976" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-120" value="满足保真度和吞吐量要求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2075" y="1211" width="237" height="49" as="geometry" />
+          <mxGeometry x="874" y="2092" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-121" value="实现ε-最优路径" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2109" y="1319" width="170" height="49" as="geometry" />
+          <mxGeometry x="908" y="2200" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-122" value="提出基于随机优化的资源分配框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2354" y="854" width="253" height="66" as="geometry" />
+          <mxGeometry x="1153" y="1735" width="253" height="66" as="geometry" />
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-123" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.64;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-82" target="S-qoTGMYvTzo0nq-7Sw4-83">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +265,7 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-85" target="S-qoTGMYvTzo0nq-7Sw4-109">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1601" y="730" />
+              <mxPoint x="400" y="1611" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -302,14 +302,14 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-156" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-85" target="S-qoTGMYvTzo0nq-7Sw4-116">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2337" y="730" />
+              <mxPoint x="1136" y="1611" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-157" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-116" target="S-qoTGMYvTzo0nq-7Sw4-117">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2194" y="829" />
+              <mxPoint x="993" y="1710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -336,7 +336,7 @@
         <mxCell id="S-qoTGMYvTzo0nq-7Sw4-162" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="S-qoTGMYvTzo0nq-7Sw4-116" target="S-qoTGMYvTzo0nq-7Sw4-122">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2480" y="829" />
+              <mxPoint x="1279" y="1710" />
             </Array>
           </mxGeometry>
         </mxCell>
