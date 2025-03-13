@@ -66,7 +66,12 @@
           <mxGeometry x="-90" y="1466" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-37" target="XRcR5hknj3jlCyolcnHL-100">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="1491" />
+              <mxPoint x="440" y="1491" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-37" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="1466" width="220" height="49" as="geometry" />
