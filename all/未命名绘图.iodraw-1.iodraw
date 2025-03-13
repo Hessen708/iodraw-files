@@ -75,6 +75,9 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-88" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-130" y="1330" width="860" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-93" target="XRcR5hknj3jlCyolcnHL-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-93" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="1542" width="66" height="49" as="geometry" />
         </mxCell>
