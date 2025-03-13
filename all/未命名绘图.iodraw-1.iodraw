@@ -51,6 +51,11 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-107" value="a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-24" target="XRcR5hknj3jlCyolcnHL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-148" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-107">
+          <mxGeometry x="0.0817" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立&#xa;（纠缠纯化与交换的交互）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
