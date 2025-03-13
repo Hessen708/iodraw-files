@@ -100,7 +100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-144" value="&lt;font style=&quot;font-weight: 700; text-align: left; background-color: rgb(251, 251, 251); font-size: 12px;&quot;&gt;信道恶化&lt;/font&gt;&lt;div style=&quot;font-weight: 700; text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;QOS约束和目标变化&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-114">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-144" value="&lt;font style=&quot;font-weight: 700; font-size: 12px;&quot;&gt;信道恶化&lt;/font&gt;&lt;div style=&quot;font-weight: 700;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;QOS约束和目标变化&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-114">
           <mxGeometry x="0.7641" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
