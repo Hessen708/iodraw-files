@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-154" value="&lt;b&gt;服务质量&lt;/b&gt;&lt;div&gt;&lt;b&gt;保障&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-147">
           <mxGeometry x="0.065" y="-2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-5" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-93" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
