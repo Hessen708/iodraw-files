@@ -48,6 +48,9 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-32" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1466" width="172" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-37" target="XRcR5hknj3jlCyolcnHL-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-37" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="180" y="1466" width="220" height="49" as="geometry" />
         </mxCell>
@@ -74,8 +77,8 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="607" y="1542" width="87" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-95" value="保真度约束的路径优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="478" y="1465" width="216" height="50" as="geometry" />
+        <mxCell id="XRcR5hknj3jlCyolcnHL-98" value="" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1460.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
