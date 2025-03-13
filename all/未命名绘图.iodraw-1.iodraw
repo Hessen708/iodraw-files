@@ -22,11 +22,6 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-8" target="XRcR5hknj3jlCyolcnHL-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-5">
-          <mxGeometry x="0.0148" y="-2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-7" value="效率&lt;div&gt;保障&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-5">
           <mxGeometry x="0.0815" y="-5" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
@@ -37,9 +32,6 @@
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-13" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="755" width="236" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-14" value="扩展到多跳网络环境" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338" y="862" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-18" value="效率&lt;div&gt;保障&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-19" target="XRcR5hknj3jlCyolcnHL-24">
           <mxGeometry relative="1" as="geometry" />
@@ -61,11 +53,6 @@
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-39" value="保真度约束的路径优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="474" y="1436" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-13" target="XRcR5hknj3jlCyolcnHL-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-87" value="比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-130" y="630" width="860" height="60" as="geometry" />
