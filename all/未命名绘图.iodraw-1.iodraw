@@ -30,7 +30,7 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-8" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillStyle=auto;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-90" y="755" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-13" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-13" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="458" y="755" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-18" value="效率&lt;div&gt;保障&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-19" target="XRcR5hknj3jlCyolcnHL-24">
@@ -39,13 +39,13 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-19" target="XRcR5hknj3jlCyolcnHL-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-90" y="1126" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-27" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-27" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="474" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-32" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
