@@ -50,14 +50,8 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-26" value="协调量子资源满足保真度和吞吐量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="964" y="970" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-27" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1274" y="755" width="220" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-28" value="离散化保真度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1306" y="862" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-29" value="转化为整数线性规划问题" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1266" y="979" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-30" value="开发随机算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1306" y="1095" width="156" height="49" as="geometry" />
@@ -183,27 +177,25 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-27">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1384" y="730" />
             </Array>
             <mxPoint x="1216" y="696.4200000000001" as="sourcePoint" />
+            <mxPoint x="1384" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-27" target="XRcR5hknj3jlCyolcnHL-28">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1384" y="804" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-28" target="XRcR5hknj3jlCyolcnHL-29">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-29" target="XRcR5hknj3jlCyolcnHL-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="1384" y="1028" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-30" target="XRcR5hknj3jlCyolcnHL-31">
