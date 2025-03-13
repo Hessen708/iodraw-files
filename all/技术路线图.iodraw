@@ -77,9 +77,6 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-87" value="比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-130" y="630" width="860" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-88" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;align=right;" vertex="1" parent="1">
-          <mxGeometry x="-128.75" y="1100" width="860" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-93" target="XRcR5hknj3jlCyolcnHL-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -159,6 +156,9 @@
           <mxGeometry x="0.6425" y="3" relative="1" as="geometry">
             <mxPoint x="1" y="-100" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-88" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-128.75" y="1100" width="860" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
