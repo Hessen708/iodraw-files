@@ -43,7 +43,9 @@
           <mxGeometry x="474" y="755" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-18" value="&lt;div style=&quot;&quot;&gt;最优性&lt;/div&gt;&lt;div style=&quot;&quot;&gt;保障&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;align=center;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-19" target="XRcR5hknj3jlCyolcnHL-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-90" y="1126" width="172" height="49" as="geometry" />
