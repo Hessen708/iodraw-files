@@ -51,11 +51,6 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-107" value="a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-24" target="XRcR5hknj3jlCyolcnHL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-136" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-107">
-          <mxGeometry x="-0.0988" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立&#xa;（纠缠纯化与交换的交互）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
@@ -98,7 +93,7 @@
             <mxPoint x="320" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-114" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;信道恶化&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;目标变化&lt;/span&gt;&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-19">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-114" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span&gt;信道恶化&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;QOS约束和目标变化&lt;/span&gt;&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-19">
           <mxGeometry x="-0.0001" width="50" height="50" relative="1" as="geometry">
             <mxPoint y="804" as="sourcePoint" />
             <mxPoint y="854" as="targetPoint" />
