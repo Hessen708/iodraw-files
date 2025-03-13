@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-153" value="&lt;b&gt;最优性&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;保障&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-145">
           <mxGeometry x="-0.0072" y="-1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-37" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
