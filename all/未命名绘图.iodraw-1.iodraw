@@ -8,7 +8,7 @@
           <mxGeometry x="-138.75" y="620" width="877.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-84" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-138.75" y="1260" width="877.5" height="310" as="geometry" />
+          <mxGeometry x="-138.75" y="1330" width="877.5" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-138.75" y="940" width="877.5" height="310" as="geometry" />
@@ -43,19 +43,19 @@
           <mxGeometry x="474" y="1096" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-32" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="1406" width="172" height="49" as="geometry" />
+          <mxGeometry x="-90" y="1476" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-37" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1406" width="220" height="49" as="geometry" />
+          <mxGeometry x="180" y="1476" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-39" value="保真度约束的路径优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1406" width="220" height="49" as="geometry" />
+          <mxGeometry x="474" y="1476" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-87" value="比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-130" y="630" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-88" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="1270" width="860" height="60" as="geometry" />
+          <mxGeometry x="-130" y="1340" width="860" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
