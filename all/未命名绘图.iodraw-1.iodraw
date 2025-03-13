@@ -51,11 +51,19 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-24" target="XRcR5hknj3jlCyolcnHL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-136" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-107">
+          <mxGeometry x="-0.0988" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="180" y="1126" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-27" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="474" y="1126" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-32" target="XRcR5hknj3jlCyolcnHL-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-32" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-90" y="1466" width="172" height="49" as="geometry" />
