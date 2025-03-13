@@ -95,7 +95,7 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-93" target="XRcR5hknj3jlCyolcnHL-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-154" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-147">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-154" value="&lt;b&gt;服务质量&lt;/b&gt;&lt;div&gt;&lt;b&gt;保障&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-147">
           <mxGeometry x="0.065" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -104,7 +104,7 @@
           <mxGeometry x="490" y="1542" width="66" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="623" y="1542" width="87" height="49" as="geometry" />
+          <mxGeometry x="630" y="1542" width="87" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-100" target="XRcR5hknj3jlCyolcnHL-94">
           <mxGeometry relative="1" as="geometry" />
