@@ -121,7 +121,7 @@
             <mxPoint x="575" y="1466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-126" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-32">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-126" value="信道恶化" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-57" y="804" as="sourcePoint" />
             <mxPoint x="-56" y="1467" as="targetPoint" />
