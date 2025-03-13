@@ -14,7 +14,7 @@
           <mxGeometry x="159" y="639" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="通用信道下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="159" y="980" width="252" height="66" as="geometry" />
+          <mxGeometry x="-130" y="950" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-4" value="通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-130" y="1300" width="860" height="50" as="geometry" />
