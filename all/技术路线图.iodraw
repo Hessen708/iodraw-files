@@ -22,9 +22,6 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-137.5" y="820" width="877.5" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-3" target="XRcR5hknj3jlCyolcnHL-86">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="通用信道下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-128.75" y="830" width="860" height="60" as="geometry" />
         </mxCell>
@@ -114,12 +111,6 @@
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-100" value="保真度约束的路径优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="1336" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-104" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;endWidth=31;endSize=6.78;strokeWidth=6;fontStyle=1" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-86" target="XRcR5hknj3jlCyolcnHL-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="870" as="sourcePoint" />
-            <mxPoint x="320" y="820" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-114" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=left;labelBackgroundColor=none;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-19">
           <mxGeometry x="-0.0311" y="32" width="50" height="50" relative="1" as="geometry">
