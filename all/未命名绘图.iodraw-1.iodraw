@@ -62,22 +62,6 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-39" value="保真度约束的路径优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="474" y="1436" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="146" y="730" />
-            </Array>
-            <mxPoint x="201.84000000000015" y="705" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="730" />
-            </Array>
-            <mxPoint x="368.15999999999985" y="705" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-13" target="XRcR5hknj3jlCyolcnHL-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
