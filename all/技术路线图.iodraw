@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-90" y="936" width="172" height="49" as="geometry" />
+          <mxGeometry x="-80" y="900" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-107" value="a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-24" target="XRcR5hknj3jlCyolcnHL-27">
           <mxGeometry relative="1" as="geometry" />
@@ -44,10 +44,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立&#xa;（纠缠纯化与交换的交互）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="936" width="220" height="49" as="geometry" />
+          <mxGeometry x="190" y="900" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-27" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="936" width="220" height="49" as="geometry" />
+          <mxGeometry x="500" y="900" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-137" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;最优性&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;保障&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" edge="1" parent="1" source="XRcR5hknj3jlCyolcnHL-32" target="XRcR5hknj3jlCyolcnHL-37">
           <mxGeometry relative="1" as="geometry" />
