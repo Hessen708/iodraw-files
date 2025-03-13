@@ -131,7 +131,7 @@
             <mxPoint x="599" y="1466" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-146" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-125">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-146" value="跳数变多" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XRcR5hknj3jlCyolcnHL-125">
           <mxGeometry x="0.6012" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
