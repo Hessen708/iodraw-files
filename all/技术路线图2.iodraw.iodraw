@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-148" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;服务质量&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;保障&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=14;" parent="XRcR5hknj3jlCyolcnHL-107" vertex="1" connectable="0">
           <mxGeometry x="0.0817" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="2" y="-43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-24" value="单请求端到端纠缠建立&#xa;（纠缠纯化与交换的交互）" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
