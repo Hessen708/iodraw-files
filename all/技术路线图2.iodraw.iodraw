@@ -75,7 +75,13 @@
           <mxGeometry x="491.25" y="1222" width="66" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="644.25" y="1222" width="87" height="49" as="geometry" />
+          <mxGeometry x="631.25" y="1222" width="87" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" parent="1" source="XRcR5hknj3jlCyolcnHL-100" target="XRcR5hknj3jlCyolcnHL-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontStyle=1;fontSize=14;" parent="1" source="XRcR5hknj3jlCyolcnHL-100" target="XRcR5hknj3jlCyolcnHL-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-100" value="保真度保证的&#xa;联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="508" y="1146" width="220" height="49" as="geometry" />
@@ -143,7 +149,7 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="（二）通用信道下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-130" y="790" width="860" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8-y64YhDAg5N7hi_HlHp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-93">
+        <mxCell id="8-y64YhDAg5N7hi_HlHp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" edge="1" parent="1">
           <mxGeometry x="0.001" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525.25" y="759" as="sourcePoint" />
             <mxPoint x="523.25" y="1150" as="targetPoint" />
