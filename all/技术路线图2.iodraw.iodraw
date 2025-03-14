@@ -32,9 +32,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="920" width="172" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-107" value="&lt;b style=&quot;&quot;&gt;服务质量&lt;/b&gt;&lt;div style=&quot;font-weight: 400;&quot;&gt;&lt;b&gt;保障&lt;/b&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;strokeColor=default;labelBackgroundColor=none;" parent="1" source="XRcR5hknj3jlCyolcnHL-24" target="XRcR5hknj3jlCyolcnHL-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -163,6 +160,9 @@
           <mxGeometry x="0.8478" relative="1" as="geometry">
             <mxPoint x="2" y="-10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="920" width="172" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
