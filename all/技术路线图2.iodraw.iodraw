@@ -168,7 +168,7 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-27" value="多请求端到端纠缠建立" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="508" y="920" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8-y64YhDAg5N7hi_HlHp-14" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=14;dashPattern=8 8;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="8-y64YhDAg5N7hi_HlHp-14" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;fontSize=14;dashPattern=8 8;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-139.37" y="560" width="878.75" height="60" as="geometry" />
         </mxCell>
       </root>
