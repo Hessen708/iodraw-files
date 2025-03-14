@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-93" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1222" width="66" height="49" as="geometry" />
+          <mxGeometry x="508" y="1222" width="66" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="660" y="1222" width="71.25" height="49" as="geometry" />
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-19" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-80" y="920" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="8-y64YhDAg5N7hi_HlHp-10" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1222" width="66" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
