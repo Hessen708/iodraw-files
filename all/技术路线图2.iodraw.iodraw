@@ -149,7 +149,7 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="（二）通用信道下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-130" y="790" width="860" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8-y64YhDAg5N7hi_HlHp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" edge="1" parent="1">
+        <mxCell id="8-y64YhDAg5N7hi_HlHp-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" edge="1" parent="1" target="XRcR5hknj3jlCyolcnHL-93">
           <mxGeometry x="0.001" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525.25" y="759" as="sourcePoint" />
             <mxPoint x="523.25" y="1150" as="targetPoint" />
