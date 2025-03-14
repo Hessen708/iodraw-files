@@ -63,8 +63,10 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-87" value="（一）比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-130" y="630" width="860" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="XRcR5hknj3jlCyolcnHL-93" target="XRcR5hknj3jlCyolcnHL-94" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XRcR5hknj3jlCyolcnHL-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="XRcR5hknj3jlCyolcnHL-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="1246.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-154" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;服务质量&lt;/b&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;保障&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=14;" parent="XRcR5hknj3jlCyolcnHL-147" vertex="1" connectable="0">
           <mxGeometry x="0.065" y="-2" relative="1" as="geometry">
@@ -74,11 +76,10 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-93" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="508" y="1222" width="66" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="660" y="1222" width="71.25" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" parent="1" source="XRcR5hknj3jlCyolcnHL-100" target="XRcR5hknj3jlCyolcnHL-94" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XRcR5hknj3jlCyolcnHL-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" parent="1" source="XRcR5hknj3jlCyolcnHL-100" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695.666666666667" y="1222" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;fontStyle=1;fontSize=14;" parent="1" source="XRcR5hknj3jlCyolcnHL-100" target="XRcR5hknj3jlCyolcnHL-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
