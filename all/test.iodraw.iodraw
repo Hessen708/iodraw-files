@@ -66,6 +66,11 @@
         <mxCell id="y3rGtlOGZFOgzt5f26Zn-26" value="纠缠纯化与交换的交互" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="181.25" y="1146" width="220" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="y3rGtlOGZFOgzt5f26Zn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="y3rGtlOGZFOgzt5f26Zn-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y3rGtlOGZFOgzt5f26Zn-27" value="（一）比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-240" y="270" width="860" height="60" as="geometry" />
         </mxCell>
