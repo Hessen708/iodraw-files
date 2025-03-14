@@ -21,7 +21,7 @@
             <mxPoint x="-4" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-8" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillStyle=auto;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-8" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillStyle=auto;labelBackgroundColor=none;fillColor=none;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-80" y="710" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-13" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
