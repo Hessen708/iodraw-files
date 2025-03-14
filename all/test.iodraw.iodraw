@@ -68,7 +68,7 @@
         </mxCell>
         <mxCell id="y3rGtlOGZFOgzt5f26Zn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="y3rGtlOGZFOgzt5f26Zn-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="470" as="targetPoint" />
+            <mxPoint x="190" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y3rGtlOGZFOgzt5f26Zn-27" value="（一）比特翻转信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
