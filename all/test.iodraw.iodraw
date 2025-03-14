@@ -4,24 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y3rGtlOGZFOgzt5f26Zn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="184" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y3rGtlOGZFOgzt5f26Zn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="166" y="184" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y3rGtlOGZFOgzt5f26Zn-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="184" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y3rGtlOGZFOgzt5f26Zn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="184" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y3rGtlOGZFOgzt5f26Zn-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="184" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y3rGtlOGZFOgzt5f26Zn-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292" y="184" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
