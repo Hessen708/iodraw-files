@@ -24,9 +24,6 @@
         <mxCell id="y3rGtlOGZFOgzt5f26Zn-14" value="链路级纯化调度" style="whiteSpace=wrap;strokeWidth=2;fillStyle=auto;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-80" y="710" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="y3rGtlOGZFOgzt5f26Zn-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3rGtlOGZFOgzt5f26Zn-15" target="y3rGtlOGZFOgzt5f26Zn-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="y3rGtlOGZFOgzt5f26Zn-15" value="联合纠缠纯化调度与路由" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="710" width="236" height="49" as="geometry" />
         </mxCell>
@@ -159,7 +156,7 @@
           <mxGeometry x="-130" y="790" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y3rGtlOGZFOgzt5f26Zn-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="315" y="825" width="90" height="70" as="geometry" />
+          <mxGeometry x="311.25" y="825" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
