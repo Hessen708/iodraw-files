@@ -144,9 +144,6 @@
             <mxPoint x="6" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-88" value="（三）通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-128.75" y="1010" width="860" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="（二）通用信道下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-130" y="790" width="860" height="60" as="geometry" />
         </mxCell>
@@ -167,6 +164,9 @@
         </mxCell>
         <mxCell id="8-y64YhDAg5N7hi_HlHp-10" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="662" y="1222" width="66" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="XRcR5hknj3jlCyolcnHL-88" value="（三）通用信道下的最优纠缠纯化调度与路由优化" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;align=center;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-128.75" y="1010" width="860" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
