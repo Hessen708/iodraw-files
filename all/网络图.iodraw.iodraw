@@ -66,10 +66,16 @@
           <mxGeometry x="870" y="280" width="78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="MxHPGam_THDjS0nje32Q-26" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="880" y="560" width="78" height="53" as="geometry" />
+          <mxGeometry x="1260" y="280" width="78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="MxHPGam_THDjS0nje32Q-27" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="860" y="700" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="MxHPGam_THDjS0nje32Q-28" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.189;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="290" as="sourcePoint" />
+            <mxPoint x="902.5" y="375" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
