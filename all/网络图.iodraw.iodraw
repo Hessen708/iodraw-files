@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1c7a67bf8fd3230f-80" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="456" y="189" width="1244" height="661" as="geometry" />
+          <mxGeometry x="456" y="189" width="1304" height="691" as="geometry" />
         </mxCell>
         <mxCell id="1c7a67bf8fd3230f-46" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="686" y="520" width="78" height="53" as="geometry" />
