@@ -152,8 +152,8 @@
         </mxCell>
         <mxCell id="MxHPGam_THDjS0nje32Q-13" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="955" y="762" as="sourcePoint" />
-            <mxPoint x="1448" y="900" as="targetPoint" />
+            <mxPoint x="544.5" y="520" as="sourcePoint" />
+            <mxPoint x="1037.5" y="658" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
