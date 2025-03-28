@@ -12,7 +12,7 @@
         <mxCell id="1c7a67bf8fd3230f-47" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="948" y="410" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="1c7a67bf8fd3230f-52" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1c7a67bf8fd3230f-47" target="1c7a67bf8fd3230f-48" edge="1">
+        <mxCell id="1c7a67bf8fd3230f-52" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="1c7a67bf8fd3230f-47" target="1c7a67bf8fd3230f-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1574.7460287638023" y="705.7482728339701" as="targetPoint" />
           </mxGeometry>
@@ -68,7 +68,7 @@
             <mxPoint x="1672" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MxHPGam_THDjS0nje32Q-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f9f7ed;strokeColor=#66B2FF;" edge="1" parent="1" target="1c7a67bf8fd3230f-47">
+        <mxCell id="MxHPGam_THDjS0nje32Q-35" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f9f7ed;strokeColor=#66B2FF;dashed=1;dashPattern=8 8;" edge="1" parent="1" target="1c7a67bf8fd3230f-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="570" as="sourcePoint" />
             <mxPoint x="1050" y="490" as="targetPoint" />
