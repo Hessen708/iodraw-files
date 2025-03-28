@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1c7a67bf8fd3230f-80" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="456" y="189" width="1304" height="691" as="geometry" />
+          <mxGeometry x="456" y="189" width="1244" height="661" as="geometry" />
         </mxCell>
         <mxCell id="1c7a67bf8fd3230f-46" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="686" y="520" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="1c7a67bf8fd3230f-54" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" source="1c7a67bf8fd3230f-47" edge="1">
+        <mxCell id="1c7a67bf8fd3230f-54" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;fontFamily=Verdana;fontSize=12;" parent="1" source="1c7a67bf8fd3230f-47" target="1c7a67bf8fd3230f-80" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1140.2441866960717" y="702.9307456107276" as="targetPoint" />
           </mxGeometry>
