@@ -57,7 +57,7 @@
           <mxGeometry x="948" y="280" width="78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="MxHPGam_THDjS0nje32Q-26" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="280" width="78" height="53" as="geometry" />
+          <mxGeometry x="1180" y="280" width="78" height="53" as="geometry" />
         </mxCell>
         <mxCell id="MxHPGam_THDjS0nje32Q-27" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1090" y="547" width="78" height="53" as="geometry" />
