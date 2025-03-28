@@ -62,6 +62,9 @@
             <mxPoint x="789" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MxHPGam_THDjS0nje32Q-25" value="" style="shape=mxgraph.cisco.routers.router;html=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;rounded=0;shadow=0;comic=0;fontFamily=Verdana;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="78" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
