@@ -68,7 +68,7 @@
             <mxPoint x="-5" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-93" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-93" value="单请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="501" y="1150" width="68.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-94" value="多请求" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#9673a6;fontStyle=1;fontSize=14;" parent="1" vertex="1">
