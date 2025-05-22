@@ -131,7 +131,7 @@
             <mxPoint x="12" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRcR5hknj3jlCyolcnHL-139" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;entryX=0.553;entryY=0.003;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="XRcR5hknj3jlCyolcnHL-24" target="XRcR5hknj3jlCyolcnHL-37" edge="1">
+        <mxCell id="XRcR5hknj3jlCyolcnHL-139" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;entryX=0.57;entryY=-0.02;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="XRcR5hknj3jlCyolcnHL-24" target="XRcR5hknj3jlCyolcnHL-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="951" as="sourcePoint" />
             <mxPoint x="291" y="1220.5" as="targetPoint" />
@@ -148,7 +148,7 @@
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="（二）一般信道模型下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=16;spacingTop=2;spacingLeft=2;spacingBottom=2;spacingRight=2;" parent="1" vertex="1">
           <mxGeometry x="-181" y="830" width="101" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="3zBGZAGnEIOIVz78Jbfp-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;entryX=0.177;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XRcR5hknj3jlCyolcnHL-100" edge="1">
+        <mxCell id="3zBGZAGnEIOIVz78Jbfp-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;entryX=0.177;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="XRcR5hknj3jlCyolcnHL-100" edge="1" source="XRcR5hknj3jlCyolcnHL-13">
           <mxGeometry x="0.001" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="785" as="sourcePoint" />
             <mxPoint x="540.03" y="1066.018" as="targetPoint" />
