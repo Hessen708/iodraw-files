@@ -144,7 +144,7 @@
           <mxGeometry x="-181" y="1014.5" width="97" height="195.5" as="geometry" />
         </mxCell>
         <mxCell id="XRcR5hknj3jlCyolcnHL-3" value="（二）一般信道模型下面向保真度的星型量子交换机纠缠分发研究" style="whiteSpace=wrap;strokeWidth=2;fillColor=default;strokeColor=#82b366;fontStyle=1;fontSize=16;spacingTop=2;spacingLeft=2;spacingBottom=2;spacingRight=2;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="830" width="96" height="180" as="geometry" />
+          <mxGeometry x="-180" y="830" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="3zBGZAGnEIOIVz78Jbfp-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;entryX=0.194;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XRcR5hknj3jlCyolcnHL-100" edge="1">
           <mxGeometry x="0.001" width="50" height="50" relative="1" as="geometry">
